@@ -1,5 +1,5 @@
 [package]
-name = "flowcontrol"
+name = "controlflow"
 version = "0.1.0"
 authors = ["Hans Petter Ladim <hanspetterl@prediktor.no>"]
 edition = "2018"
