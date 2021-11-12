@@ -41,7 +41,7 @@ fn main() {
     let six_point_four = x.1;
 
     let one = x.2;
-    println!("The value of five_hundred is: {}", y);
+    println!("The value of five_hundred is: {}", five_hundred);
 
     // array
     let a: [i32; 5] = [1, 2, 3, 4, 5]; //semicolon here
@@ -49,7 +49,7 @@ fn main() {
     let first = a[0]; 
     println!("first {}", first);
 
-    let a = [3; 7]; //equal: assagniment here
+    let a = [3; 7]; //equal: assignment here
    
     let second = a[1];
     println!("second {}", second);
